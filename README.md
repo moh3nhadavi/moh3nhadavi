@@ -13,5 +13,5 @@
 - Human rights & civic-tech projects
 
 ## 📫 Contact
-- GitHub: https://github.com/yourusername
-- Website: https://yourwebsite.com
+- GitHub: https://github.com/moh3nhadavi
+- LinkedIn: [https://linkedin.com/in/moh3nhadavi/](https://linkedin.com/in/moh3nhadavi/)
