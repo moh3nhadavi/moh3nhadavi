@@ -2,19 +2,18 @@
 
 # 👋 Hi, I'm Mohsen
 
-💻 **Software Engineer & Squad Lead** at Alpha10x  
+💻 **Software Engineer** at Alpha10x  
 🎓 Master's degree from École des Mines de Saint-Étienne and Jean Monnet University  
 📍 Aix-en-Provence, France  
 
 </div>
 
----
 
 ## 🚀 About Me
 
-I'm a Software Engineer and Squad Lead at Alpha10x, passionate about building scalable backend systems and leading technical teams. With a strong foundation in data engineering and cloud technologies, I specialize in Python-based solutions and modern software architecture.
+I'm a Software Engineer at [ALPHA10X](https://alpha10x.com), passionate about building scalable backend systems and leading technical teams. With a strong foundation in data engineering and cloud technologies, I specialize in Python-based solutions and modern software architecture.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -88,7 +87,7 @@ I'm a Software Engineer and Squad Lead at Alpha10x, passionate about building sc
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 </div>
 
----
+
 
 ## 💼 Soft Skills
 
@@ -101,14 +100,33 @@ I'm a Software Engineer and Squad Lead at Alpha10x, passionate about building sc
   <img src="https://img.shields.io/badge/Problem_Solving-FF6B9D?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solving" />
 </div>
 
----
 
-## 🌱 Current Focus
+## 🎨 Design & Additional Skills
 
-- 🏗️ Backend architecture
-- 🌍 Human rights & civic-tech projects
+**Design Tools:**
+<div align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&format=png" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" alt="InDesign" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</div>
 
----
+**Additional Expertise:**
+- 💼 IT Management
+- 🎨 Graphic Design & Layout
+
+
+
+## 🌍 Civic Engagement & Activism
+
+I'm actively involved in promoting human rights and political discourse:
+- **Member of** [Iranische Liberale Frauen e.V.](https://iranische-liberale-frauen.org/) - An organization dedicated the Middle East human rights in Germany and beyond.
+- **Contributor to** [Iran im Diskurs](https://irandiskurs.de/) - A Magazine for analysis and discourse on Iran's history, geopolitics, and current affairs
+
+**Focus Areas:**
+- Iran Politics & Human Rights Advocacy
+- Political analysis and discourse
+
+
 
 ## 📚 Publications
 
@@ -121,7 +139,13 @@ I'm a Software Engineer and Squad Lead at Alpha10x, passionate about building sc
 
 > This demonstration paper introduces the urdflib library for MicroPython, which facilitates the development of RDF manipulation programs for embedded devices that run MicroPython, and additionally ensures the API is compatible with the widely used RDFLib Python library.
 
----
+
+## 🌐 Languages
+
+- 🦁☀️ **Persian** - Native
+- 🇬🇧 **English** - Professional
+- 🇫🇷 **French** - Elementary
+
 
 ## 📫 Connect With Me
 
