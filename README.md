@@ -25,12 +25,11 @@ I'm a Software Engineer and Squad Lead at Alpha10x, passionate about building sc
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
 </div>
 
 **Cloud & Infrastructure:**
 <div align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure CI/CD" />
 </div>
@@ -111,6 +110,19 @@ I'm a Software Engineer and Squad Lead at Alpha10x, passionate about building sc
 
 ---
 
+## 📚 Publications
+
+### The urdflib Library for MicroPython: Manipulating RDF on Constrained Devices
+
+**Authors:** Mohsen Hadavi, Maxime Lefrançois  
+**Conference:** International Semantic Web Conference (ISWC)  
+**Year:** 2023  
+**Link:** [View Publication](https://hal-emse.ccsd.cnrs.fr/emse-04277980/)
+
+> This demonstration paper introduces the urdflib library for MicroPython, which facilitates the development of RDF manipulation programs for embedded devices that run MicroPython, and additionally ensures the API is compatible with the widely used RDFLib Python library.
+
+---
+
 ## 📫 Connect With Me
 
 <div align="left">
@@ -120,9 +132,15 @@ I'm a Software Engineer and Squad Lead at Alpha10x, passionate about building sc
   <a href="https://linkedin.com/in/moh3nhadavi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Email: moh3nhadavi@gmail.com -->
-  <!-- Instagram: moh3nhadavi -->
-  <!-- X: moh3nhadavi -->
+  <a href="mailto:moh3nhadavi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/moh3nhadavi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/moh3nhadavi" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
 </div>
 
 ---
