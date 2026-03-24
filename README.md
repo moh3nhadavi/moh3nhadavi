@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohsen
 
-💻 **Software Engineer** at Alpha10x  
+💻 **Senior Software Engineer** at Alpha10x  
 🎓 Master's degree from École des Mines de Saint-Étienne and Jean Monnet University  
 📍 Aix-en-Provence, France  
 
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer at [ALPHA10X](https://alpha10x.com), passionate about building scalable backend systems and leading technical teams. With a strong foundation in data engineering and cloud technologies, I specialize in Python-based solutions and modern software architecture.
+I'm a Senior Software Engineer at [ALPHA10X](https://alpha10x.com), passionate about building scalable backend systems and leading technical teams. With a strong foundation in data engineering and cloud technologies, I specialize in Python-based solutions and modern software architecture.
 
 
 
