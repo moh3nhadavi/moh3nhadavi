@@ -11,8 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a Senior Software Engineer at [ALPHA10X](https://alpha10x.com), passionate about building scalable backend systems and leading technical teams. With a strong foundation in data engineering and cloud technologies, I specialize in Python-based solutions and modern software architecture.
-
+Senior Software Engineer with 5+ years of experience building scalable backend systems and AI-powered data pipelines. Currently squad tech lead at ALPHA10X, an investment intelligence platform for private markets professionals. Expert in Python microservices (FastAPI, Flask, Django), search infrastructure (Elasticsearch), LLM orchestration (LangChain, OpenAI, Anthropic), and cloud data platforms (Databricks, PostgreSQL, Redis, CosmosDB). Strong track record of growing from individual contributor to tech lead, with a focus on API design, system reliability, and observability. Published author in embedded/IoT development (urdflib for MicroPython). Fluent in English; native Persian.
 
 
 ## 🛠️ Tech Stack
